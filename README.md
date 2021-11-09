@@ -6,4 +6,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Diego%20Santos-13324B?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegosantos18/)](https://www.linkedin.com/in/diegosantos18/) 
 <br> 
 [![Outlook Badge](https://img.shields.io/badge/-diegosantosaraujo@outlook.com-0078D4?style=for-the-badge&logo=Microsoft%20Outlook&logoColor=white&link=mailto:diegosantosaraujo@outlook.com)](mailto:diegosantosaraujo@outlook.com) 
-[![Harpia Badge](https://img.shields.io/badge/-Harpia%20Studios%20Website-ED1C24?style=for-the-badge&logo=none&logoColor=white&link=https://www.harpiastudios.com.br)](https://www.harpiastudios.com.br)
+[![Harkin Badge](https://img.shields.io/badge/-Harkin%20Game%20Studios%20Website-ED1C24?style=for-the-badge&logo=none&logoColor=white&link=https://www.harkin.com.br)](https://www.harkin.com.br)
